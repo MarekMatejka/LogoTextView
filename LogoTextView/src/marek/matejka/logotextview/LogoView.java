@@ -23,17 +23,17 @@ import android.text.Html;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.widget.Button;
+import android.widget.TextView;
 
 /**
- * Class that extends Button and uses FontAwesome
+ * Class that extends TextView and uses FontAwesome
  * (http://fontawesome.io/icons/) to show characters which can be used as a
  * replacement of some graphics in your application.
  * 
  * @author Marek Matejka
  * @see {@link http://fontawesome.io/icons/} for more icons.
  */
-public class LogoView extends Button implements OnClickListener{
+public class LogoView extends TextView implements OnClickListener{
 
 	/**
 	 * General constructor for the LogoTextView view.
