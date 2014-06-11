@@ -21,17 +21,19 @@ import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.text.Html;
 import android.util.AttributeSet;
-import android.widget.TextView;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
 
 /**
- * Class that extends TextView and uses FontAwesome
+ * Class that extends Button and uses FontAwesome
  * (http://fontawesome.io/icons/) to show characters which can be used as a
  * replacement of some graphics in your application.
  * 
  * @author Marek Matejka
  * @see {@link http://fontawesome.io/icons/} for more icons.
  */
-public class LogoTextView extends TextView {
+public class LogoView extends Button implements OnClickListener{
 
 	/**
 	 * General constructor for the LogoTextView view.
@@ -41,13 +43,13 @@ public class LogoTextView extends TextView {
 	 * @param attrs
 	 *            AttributeSet defined through XML.
 	 */
-	public LogoTextView(Context context, AttributeSet attrs) {
+	public LogoView(Context context, AttributeSet attrs) {
 		super(context, attrs);
 
 		// get the logo type code
 		TypedArray a = context.obtainStyledAttributes(attrs,
-				R.styleable.LogoTextView);
-		int code = a.getInteger(R.styleable.LogoTextView_logo_type, -1); // -1 =
+				R.styleable.LogoView);
+		int code = a.getInteger(R.styleable.LogoView_logo_type, -1); // -1 =
 																			// default
 																			// value
 		a.recycle();
@@ -1090,4 +1092,7 @@ public class LogoTextView extends TextView {
 			return null;
 		}
 	}
+
+	@Override
+	public void onClick(View v) {}
 }

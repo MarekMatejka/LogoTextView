@@ -23,7 +23,7 @@
 -->
 <resources>
 
-    <declare-styleable name="LogoTextView">
+    <declare-styleable name="LogoView">
         <attr name="logo_type" format="integer">
             <enum name="adjust" value="1" />
             <enum name="adn" value="2" />
