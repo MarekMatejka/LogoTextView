@@ -1002,7 +1002,7 @@ public class LogoTextView extends TextView {
 		case 461:
 			return "&#xf0d1;"; // truck
 		case 462:
-			return "&#xf195;"; // try
+			return "&#xf195;"; // try_currency
 		case 463:
 			return "&#xf173;"; // tumblr
 		case 464:

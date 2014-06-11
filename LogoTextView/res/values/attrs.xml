@@ -13,13 +13,13 @@
  	 distributed under the License is distributed on an "AS IS" BASIS,
  	 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  	 See the License for the specific language governing permissions and
- 	 limitations under the License.
+ 	 limitations under the License.
 -->
 
 
 <!--
      Values for LogoTextView, for info on how to add more
-    	 logo types see LogoTextView.java
+    	 logo types see LogoTextView.java
 -->
 <resources>
 
@@ -27,124 +27,124 @@
         <attr name="logo_type" format="integer">
             <enum name="adjust" value="1" />
             <enum name="adn" value="2" />
-            <enum name="align-center" value="3" />
-            <enum name="align-justify" value="4" />
-            <enum name="align-left" value="5" />
-            <enum name="align-right" value="6" />
+            <enum name="align_center" value="3" />
+            <enum name="align_justify" value="4" />
+            <enum name="align_left" value="5" />
+            <enum name="align_right" value="6" />
             <enum name="ambulance" value="7" />
             <enum name="anchor" value="8" />
             <enum name="android" value="9" />
-            <enum name="angle-double-down" value="10" />
-            <enum name="angle-double-left" value="11" />
-            <enum name="angle-double-right" value="12" />
-            <enum name="angle-double-up" value="13" />
-            <enum name="angle-down" value="14" />
-            <enum name="angle-left" value="15" />
-            <enum name="angle-right" value="16" />
-            <enum name="angle-up" value="17" />
+            <enum name="angle_double_down" value="10" />
+            <enum name="angle_double_left" value="11" />
+            <enum name="angle_double_right" value="12" />
+            <enum name="angle_double_up" value="13" />
+            <enum name="angle_down" value="14" />
+            <enum name="angle_left" value="15" />
+            <enum name="angle_right" value="16" />
+            <enum name="angle_up" value="17" />
             <enum name="apple" value="18" />
             <enum name="archive" value="19" />
-            <enum name="arrow-circle-down" value="20" />
-            <enum name="arrow-circle-left" value="21" />
-            <enum name="arrow-circle-o-down" value="22" />
-            <enum name="arrow-circle-o-left" value="23" />
-            <enum name="arrow-circle-o-right" value="24" />
-            <enum name="arrow-circle-o-up" value="25" />
-            <enum name="arrow-circle-right" value="26" />
-            <enum name="arrow-circle-up" value="27" />
-            <enum name="arrow-down" value="28" />
-            <enum name="arrow-left" value="29" />
-            <enum name="arrow-right" value="30" />
-            <enum name="arrow-up" value="31" />
+            <enum name="arrow_circle_down" value="20" />
+            <enum name="arrow_circle_left" value="21" />
+            <enum name="arrow_circle_o_down" value="22" />
+            <enum name="arrow_circle_o_left" value="23" />
+            <enum name="arrow_circle_o_right" value="24" />
+            <enum name="arrow_circle_o_up" value="25" />
+            <enum name="arrow_circle_right" value="26" />
+            <enum name="arrow_circle_up" value="27" />
+            <enum name="arrow_down" value="28" />
+            <enum name="arrow_left" value="29" />
+            <enum name="arrow_right" value="30" />
+            <enum name="arrow_up" value="31" />
             <enum name="arrows" value="32" />
-            <enum name="arrows-alt" value="33" />
-            <enum name="arrows-h" value="34" />
-            <enum name="arrows-v" value="35" />
+            <enum name="arrows_alt" value="33" />
+            <enum name="arrows_h" value="34" />
+            <enum name="arrows_v" value="35" />
             <enum name="asterisk" value="36" />
             <enum name="automobile" value="37" />
             <enum name="backward" value="38" />
             <enum name="ban" value="39" />
             <enum name="bank" value="40" />
-            <enum name="bar-chart-o" value="41" />
+            <enum name="bar_chart_o" value="41" />
             <enum name="barcode" value="42" />
             <enum name="bars" value="43" />
             <enum name="beer" value="44" />
             <enum name="behance" value="45" />
-            <enum name="behance-square" value="46" />
+            <enum name="behance_square" value="46" />
             <enum name="bell" value="47" />
-            <enum name="bell-o" value="48" />
+            <enum name="bell_o" value="48" />
             <enum name="bitbucket" value="49" />
-            <enum name="bitbucket-square" value="50" />
+            <enum name="bitbucket_square" value="50" />
             <enum name="bitcoin" value="51" />
             <enum name="bold" value="52" />
             <enum name="bolt" value="53" />
             <enum name="bomb" value="54" />
             <enum name="book" value="55" />
             <enum name="bookmark" value="56" />
-            <enum name="bookmark-o" value="57" />
+            <enum name="bookmark_o" value="57" />
             <enum name="briefcase" value="58" />
             <enum name="btc" value="59" />
             <enum name="bug" value="60" />
             <enum name="building" value="61" />
-            <enum name="building-o" value="62" />
+            <enum name="building_o" value="62" />
             <enum name="bullhorn" value="63" />
             <enum name="bullseye" value="64" />
             <enum name="cab" value="65" />
             <enum name="calendar" value="66" />
-            <enum name="calendar-o" value="67" />
+            <enum name="calendar_o" value="67" />
             <enum name="camera" value="68" />
-            <enum name="camera-retro" value="69" />
+            <enum name="camera_retro" value="69" />
             <enum name="car" value="70" />
-            <enum name="caret-down" value="71" />
-            <enum name="caret-left" value="72" />
-            <enum name="caret-right" value="73" />
-            <enum name="caret-square-o-down" value="74" />
-            <enum name="caret-square-o-left" value="75" />
-            <enum name="caret-square-o-right" value="76" />
-            <enum name="caret-square-o-up" value="77" />
-            <enum name="caret-up" value="78" />
+            <enum name="caret_down" value="71" />
+            <enum name="caret_left" value="72" />
+            <enum name="caret_right" value="73" />
+            <enum name="caret_square_o_down" value="74" />
+            <enum name="caret_square_o_left" value="75" />
+            <enum name="caret_square_o_right" value="76" />
+            <enum name="caret_square_o_up" value="77" />
+            <enum name="caret_up" value="78" />
             <enum name="certificate" value="79" />
             <enum name="chain" value="80" />
-            <enum name="chain-broken" value="81" />
+            <enum name="chain_broken" value="81" />
             <enum name="check" value="82" />
-            <enum name="check-circle" value="83" />
-            <enum name="check-circle-o" value="84" />
-            <enum name="check-square" value="85" />
-            <enum name="check-square-o" value="86" />
-            <enum name="chevron-circle-down" value="87" />
-            <enum name="chevron-circle-left" value="88" />
-            <enum name="chevron-circle-right" value="89" />
-            <enum name="chevron-circle-up" value="90" />
-            <enum name="chevron-down" value="91" />
-            <enum name="chevron-left" value="92" />
-            <enum name="chevron-right" value="93" />
-            <enum name="chevron-up" value="94" />
+            <enum name="check_circle" value="83" />
+            <enum name="check_circle_o" value="84" />
+            <enum name="check_square" value="85" />
+            <enum name="check_square_o" value="86" />
+            <enum name="chevron_circle_down" value="87" />
+            <enum name="chevron_circle_left" value="88" />
+            <enum name="chevron_circle_right" value="89" />
+            <enum name="chevron_circle_up" value="90" />
+            <enum name="chevron_down" value="91" />
+            <enum name="chevron_left" value="92" />
+            <enum name="chevron_right" value="93" />
+            <enum name="chevron_up" value="94" />
             <enum name="child" value="95" />
             <enum name="circle" value="96" />
-            <enum name="circle-o" value="97" />
-            <enum name="circle-o-notch" value="98" />
-            <enum name="circle-thin" value="99" />
+            <enum name="circle_o" value="97" />
+            <enum name="circle_o_notch" value="98" />
+            <enum name="circle_thin" value="99" />
             <enum name="clipboard" value="100" />
-            <enum name="clock-o" value="101" />
+            <enum name="clock_o" value="101" />
             <enum name="cloud" value="102" />
-            <enum name="cloud-download" value="103" />
-            <enum name="cloud-upload" value="104" />
+            <enum name="cloud_download" value="103" />
+            <enum name="cloud_upload" value="104" />
             <enum name="cny" value="105" />
             <enum name="code" value="106" />
-            <enum name="code-fork" value="107" />
+            <enum name="code_fork" value="107" />
             <enum name="codepen" value="108" />
             <enum name="coffee" value="109" />
             <enum name="cog" value="110" />
             <enum name="cogs" value="111" />
             <enum name="columns" value="112" />
             <enum name="comment" value="113" />
-            <enum name="comment-o" value="114" />
+            <enum name="comment_o" value="114" />
             <enum name="comments" value="115" />
-            <enum name="comments-o" value="116" />
+            <enum name="comments_o" value="116" />
             <enum name="compass" value="117" />
             <enum name="compress" value="118" />
             <enum name="copy" value="119" />
-            <enum name="credit-card" value="120" />
+            <enum name="credit_card" value="120" />
             <enum name="crop" value="121" />
             <enum name="crosshairs" value="122" />
             <enum name="css3" value="123" />
@@ -160,76 +160,76 @@
             <enum name="deviantart" value="133" />
             <enum name="digg" value="134" />
             <enum name="dollar" value="135" />
-            <enum name="dot-circle-o" value="136" />
+            <enum name="dot_circle_o" value="136" />
             <enum name="download" value="137" />
             <enum name="dribbble" value="138" />
             <enum name="dropbox" value="139" />
             <enum name="drupal" value="140" />
             <enum name="edit" value="141" />
             <enum name="eject" value="142" />
-            <enum name="ellipsis-h" value="143" />
-            <enum name="ellipsis-v" value="144" />
+            <enum name="ellipsis_h" value="143" />
+            <enum name="ellipsis_v" value="144" />
             <enum name="empire" value="145" />
             <enum name="envelope" value="146" />
-            <enum name="envelope-o" value="147" />
-            <enum name="envelope-square" value="148" />
+            <enum name="envelope_o" value="147" />
+            <enum name="envelope_square" value="148" />
             <enum name="eraser" value="149" />
             <enum name="eur" value="150" />
             <enum name="euro" value="151" />
             <enum name="exchange" value="152" />
             <enum name="exclamation" value="153" />
-            <enum name="exclamation-circle" value="154" />
-            <enum name="exclamation-triangle" value="155" />
+            <enum name="exclamation_circle" value="154" />
+            <enum name="exclamation_triangle" value="155" />
             <enum name="expand" value="156" />
-            <enum name="external-link" value="157" />
-            <enum name="external-link-square" value="158" />
+            <enum name="external_link" value="157" />
+            <enum name="external_link_square" value="158" />
             <enum name="eye" value="159" />
-            <enum name="eye-slash" value="160" />
+            <enum name="eye_slash" value="160" />
             <enum name="facebook" value="161" />
-            <enum name="facebook-square" value="162" />
-            <enum name="fast-backward" value="163" />
-            <enum name="fast-forward" value="164" />
+            <enum name="facebook_square" value="162" />
+            <enum name="fast_backward" value="163" />
+            <enum name="fast_forward" value="164" />
             <enum name="fax" value="165" />
             <enum name="female" value="166" />
-            <enum name="fighter-jet" value="167" />
+            <enum name="fighter_jet" value="167" />
             <enum name="file" value="168" />
-            <enum name="file-archive-o" value="169" />
-            <enum name="file-audio-o" value="170" />
-            <enum name="file-code-o" value="171" />
-            <enum name="file-excel-o" value="172" />
-            <enum name="file-image-o" value="173" />
-            <enum name="file-movie-o" value="174" />
-            <enum name="file-o" value="175" />
-            <enum name="file-pdf-o" value="176" />
-            <enum name="file-photo-o" value="177" />
-            <enum name="file-picture-o" value="178" />
-            <enum name="file-powerpoint-o" value="179" />
-            <enum name="file-sound-o" value="180" />
-            <enum name="file-text" value="181" />
-            <enum name="file-text-o" value="182" />
-            <enum name="file-video-o" value="183" />
-            <enum name="file-word-o" value="184" />
-            <enum name="file-zip-o" value="185" />
-            <enum name="files-o" value="186" />
+            <enum name="file_archive_o" value="169" />
+            <enum name="file_audio_o" value="170" />
+            <enum name="file_code_o" value="171" />
+            <enum name="file_excel_o" value="172" />
+            <enum name="file_image_o" value="173" />
+            <enum name="file_movie_o" value="174" />
+            <enum name="file_o" value="175" />
+            <enum name="file_pdf_o" value="176" />
+            <enum name="file_photo_o" value="177" />
+            <enum name="file_picture_o" value="178" />
+            <enum name="file_powerpoint_o" value="179" />
+            <enum name="file_sound_o" value="180" />
+            <enum name="file_text" value="181" />
+            <enum name="file_text_o" value="182" />
+            <enum name="file_video_o" value="183" />
+            <enum name="file_word_o" value="184" />
+            <enum name="file_zip_o" value="185" />
+            <enum name="files_o" value="186" />
             <enum name="film" value="187" />
             <enum name="filter" value="188" />
             <enum name="fire" value="189" />
-            <enum name="fire-extinguisher" value="190" />
+            <enum name="fire_extinguisher" value="190" />
             <enum name="flag" value="191" />
-            <enum name="flag-checkered" value="192" />
-            <enum name="flag-o" value="193" />
+            <enum name="flag_checkered" value="192" />
+            <enum name="flag_o" value="193" />
             <enum name="flash" value="194" />
             <enum name="flask" value="195" />
             <enum name="flickr" value="196" />
-            <enum name="floppy-o" value="197" />
+            <enum name="floppy_o" value="197" />
             <enum name="folder" value="198" />
-            <enum name="folder-o" value="199" />
-            <enum name="folder-open" value="200" />
-            <enum name="folder-open-o" value="201" />
+            <enum name="folder_o" value="199" />
+            <enum name="folder_open" value="200" />
+            <enum name="folder_open_o" value="201" />
             <enum name="font" value="202" />
             <enum name="forward" value="203" />
             <enum name="foursquare" value="204" />
-            <enum name="frown-o" value="205" />
+            <enum name="frown_o" value="205" />
             <enum name="gamepad" value="206" />
             <enum name="gavel" value="207" />
             <enum name="gbp" value="208" />
@@ -238,38 +238,38 @@
             <enum name="gears" value="211" />
             <enum name="gift" value="212" />
             <enum name="git" value="213" />
-            <enum name="git-square" value="214" />
+            <enum name="git_square" value="214" />
             <enum name="github" value="215" />
-            <enum name="github-alt" value="216" />
-            <enum name="github-square" value="217" />
+            <enum name="github_alt" value="216" />
+            <enum name="github_square" value="217" />
             <enum name="gittip" value="218" />
             <enum name="glass" value="219" />
             <enum name="globe" value="220" />
             <enum name="google" value="221" />
-            <enum name="google-plus" value="222" />
-            <enum name="google-plus-square" value="223" />
-            <enum name="graduation-cap" value="224" />
+            <enum name="google_plus" value="222" />
+            <enum name="google_plus_square" value="223" />
+            <enum name="graduation_cap" value="224" />
             <enum name="group" value="225" />
-            <enum name="h-square" value="226" />
-            <enum name="hacker-news" value="227" />
-            <enum name="hand-o-down" value="228" />
-            <enum name="hand-o-left" value="229" />
-            <enum name="hand-o-right" value="230" />
-            <enum name="hand-o-up" value="231" />
-            <enum name="hdd-o" value="232" />
+            <enum name="h_square" value="226" />
+            <enum name="hacker_news" value="227" />
+            <enum name="hand_o_down" value="228" />
+            <enum name="hand_o_left" value="229" />
+            <enum name="hand_o_right" value="230" />
+            <enum name="hand_o_up" value="231" />
+            <enum name="hdd_o" value="232" />
             <enum name="header" value="233" />
             <enum name="headphones" value="234" />
             <enum name="heart" value="235" />
-            <enum name="heart-o" value="236" />
+            <enum name="heart_o" value="236" />
             <enum name="history" value="237" />
             <enum name="home" value="238" />
-            <enum name="hospital-o" value="239" />
+            <enum name="hospital_o" value="239" />
             <enum name="html5" value="240" />
             <enum name="image" value="241" />
             <enum name="inbox" value="242" />
             <enum name="indent" value="243" />
             <enum name="info" value="244" />
-            <enum name="info-circle" value="245" />
+            <enum name="info_circle" value="245" />
             <enum name="inr" value="246" />
             <enum name="instagram" value="247" />
             <enum name="institution" value="248" />
@@ -278,179 +278,179 @@
             <enum name="jpy" value="251" />
             <enum name="jsfiddle" value="252" />
             <enum name="key" value="253" />
-            <enum name="keyboard-o" value="254" />
+            <enum name="keyboard_o" value="254" />
             <enum name="krw" value="255" />
             <enum name="language" value="256" />
             <enum name="laptop" value="257" />
             <enum name="leaf" value="258" />
             <enum name="legal" value="259" />
-            <enum name="lemon-o" value="260" />
-            <enum name="level-down" value="261" />
-            <enum name="level-up" value="262" />
-            <enum name="life-bouy" value="263" />
-            <enum name="life-ring" value="264" />
-            <enum name="life-saver" value="265" />
-            <enum name="lightbulb-o" value="266" />
+            <enum name="lemon_o" value="260" />
+            <enum name="level_down" value="261" />
+            <enum name="level_up" value="262" />
+            <enum name="life_bouy" value="263" />
+            <enum name="life_ring" value="264" />
+            <enum name="life_saver" value="265" />
+            <enum name="lightbulb_o" value="266" />
             <enum name="link" value="267" />
             <enum name="linkedin" value="268" />
-            <enum name="linkedin-square" value="269" />
+            <enum name="linkedin_square" value="269" />
             <enum name="linux" value="270" />
             <enum name="list" value="271" />
-            <enum name="list-alt" value="272" />
-            <enum name="list-ol" value="273" />
-            <enum name="list-ul" value="274" />
-            <enum name="location-arrow" value="275" />
+            <enum name="list_alt" value="272" />
+            <enum name="list_ol" value="273" />
+            <enum name="list_ul" value="274" />
+            <enum name="location_arrow" value="275" />
             <enum name="lock" value="276" />
-            <enum name="long-arrow-down" value="277" />
-            <enum name="long-arrow-left" value="278" />
-            <enum name="long-arrow-right" value="279" />
-            <enum name="long-arrow-up" value="280" />
+            <enum name="long_arrow_down" value="277" />
+            <enum name="long_arrow_left" value="278" />
+            <enum name="long_arrow_right" value="279" />
+            <enum name="long_arrow_up" value="280" />
             <enum name="magic" value="281" />
             <enum name="magnet" value="282" />
-            <enum name="mail-forward" value="283" />
-            <enum name="mail-reply" value="284" />
-            <enum name="mail-reply-all" value="285" />
+            <enum name="mail_forward" value="283" />
+            <enum name="mail_reply" value="284" />
+            <enum name="mail_reply_all" value="285" />
             <enum name="male" value="286" />
-            <enum name="map-marker" value="287" />
+            <enum name="map_marker" value="287" />
             <enum name="maxcdn" value="288" />
             <enum name="medkit" value="289" />
-            <enum name="meh-o" value="290" />
+            <enum name="meh_o" value="290" />
             <enum name="microphone" value="291" />
-            <enum name="microphone-slash" value="292" />
+            <enum name="microphone_slash" value="292" />
             <enum name="minus" value="293" />
-            <enum name="minus-circle" value="294" />
-            <enum name="minus-square" value="295" />
-            <enum name="minus-square-o" value="296" />
+            <enum name="minus_circle" value="294" />
+            <enum name="minus_square" value="295" />
+            <enum name="minus_square_o" value="296" />
             <enum name="mobile" value="297" />
-            <enum name="mobile-phone" value="298" />
+            <enum name="mobile_phone" value="298" />
             <enum name="money" value="299" />
-            <enum name="moon-o" value="300" />
-            <enum name="mortar-board" value="301" />
+            <enum name="moon_o" value="300" />
+            <enum name="mortar_board" value="301" />
             <enum name="music" value="302" />
             <enum name="navicon" value="303" />
             <enum name="openid" value="304" />
             <enum name="outdent" value="305" />
             <enum name="pagelines" value="306" />
-            <enum name="paper-plane" value="307" />
-            <enum name="paper-plane-o" value="308" />
+            <enum name="paper_plane" value="307" />
+            <enum name="paper_plane_o" value="308" />
             <enum name="paperclip" value="309" />
             <enum name="paragraph" value="310" />
             <enum name="paste" value="311" />
             <enum name="pause" value="312" />
             <enum name="paw" value="313" />
             <enum name="pencil" value="314" />
-            <enum name="pencil-square" value="315" />
-            <enum name="pencil-square-o" value="316" />
+            <enum name="pencil_square" value="315" />
+            <enum name="pencil_square_o" value="316" />
             <enum name="phone" value="317" />
-            <enum name="phone-square" value="318" />
+            <enum name="phone_square" value="318" />
             <enum name="photo" value="319" />
-            <enum name="picture-o" value="320" />
-            <enum name="pied-piper" value="321" />
-            <enum name="pied-piper-alt" value="322" />
-            <enum name="pied-piper-square" value="323" />
+            <enum name="picture_o" value="320" />
+            <enum name="pied_piper" value="321" />
+            <enum name="pied_piper_alt" value="322" />
+            <enum name="pied_piper_square" value="323" />
             <enum name="pinterest" value="324" />
-            <enum name="pinterest-square" value="325" />
+            <enum name="pinterest_square" value="325" />
             <enum name="plane" value="326" />
             <enum name="play" value="327" />
-            <enum name="play-circle" value="328" />
-            <enum name="play-circle-o" value="329" />
+            <enum name="play_circle" value="328" />
+            <enum name="play_circle_o" value="329" />
             <enum name="plus" value="330" />
-            <enum name="plus-circle" value="331" />
-            <enum name="plus-square" value="332" />
-            <enum name="plus-square-o" value="333" />
-            <enum name="power-off" value="334" />
+            <enum name="plus_circle" value="331" />
+            <enum name="plus_square" value="332" />
+            <enum name="plus_square_o" value="333" />
+            <enum name="power_off" value="334" />
             <enum name="print" value="335" />
-            <enum name="puzzle-piece" value="336" />
+            <enum name="puzzle_piece" value="336" />
             <enum name="qq" value="337" />
             <enum name="qrcode" value="338" />
             <enum name="question" value="339" />
-            <enum name="question-circle" value="340" />
-            <enum name="quote-left" value="341" />
-            <enum name="quote-right" value="342" />
+            <enum name="question_circle" value="340" />
+            <enum name="quote_left" value="341" />
+            <enum name="quote_right" value="342" />
             <enum name="ra" value="343" />
             <enum name="random" value="344" />
             <enum name="rebel" value="345" />
             <enum name="recycle" value="346" />
             <enum name="reddit" value="347" />
-            <enum name="reddit-square" value="348" />
+            <enum name="reddit_square" value="348" />
             <enum name="refresh" value="349" />
             <enum name="renren" value="350" />
             <enum name="reorder" value="351" />
             <enum name="repeat" value="352" />
             <enum name="reply" value="353" />
-            <enum name="reply-all" value="354" />
+            <enum name="reply_all" value="354" />
             <enum name="retweet" value="355" />
             <enum name="rmb" value="356" />
             <enum name="road" value="357" />
             <enum name="rocket" value="358" />
-            <enum name="rotate-left" value="359" />
-            <enum name="rotate-right" value="360" />
+            <enum name="rotate_left" value="359" />
+            <enum name="rotate_right" value="360" />
             <enum name="rouble" value="361" />
             <enum name="rss" value="362" />
-            <enum name="rss-square" value="363" />
+            <enum name="rss_square" value="363" />
             <enum name="rub" value="364" />
             <enum name="ruble" value="365" />
             <enum name="rupee" value="366" />
             <enum name="save" value="367" />
             <enum name="scissors" value="368" />
             <enum name="search" value="369" />
-            <enum name="search-minus" value="370" />
-            <enum name="search-plus" value="371" />
+            <enum name="search_minus" value="370" />
+            <enum name="search_plus" value="371" />
             <enum name="send" value="372" />
-            <enum name="send-o" value="373" />
+            <enum name="send_o" value="373" />
             <enum name="share" value="374" />
-            <enum name="share-alt" value="375" />
-            <enum name="share-alt-square" value="376" />
-            <enum name="share-square" value="377" />
-            <enum name="share-square-o" value="378" />
+            <enum name="share_alt" value="375" />
+            <enum name="share_alt_square" value="376" />
+            <enum name="share_square" value="377" />
+            <enum name="share_square_o" value="378" />
             <enum name="shield" value="379" />
-            <enum name="shopping-cart" value="380" />
-            <enum name="sign-in" value="381" />
-            <enum name="sign-out" value="382" />
+            <enum name="shopping_cart" value="380" />
+            <enum name="sign_in" value="381" />
+            <enum name="sign_out" value="382" />
             <enum name="signal" value="383" />
             <enum name="sitemap" value="384" />
             <enum name="skype" value="385" />
             <enum name="slack" value="386" />
             <enum name="sliders" value="387" />
-            <enum name="smile-o" value="388" />
+            <enum name="smile_o" value="388" />
             <enum name="sort" value="389" />
-            <enum name="sort-alpha-asc" value="390" />
-            <enum name="sort-alpha-desc" value="391" />
-            <enum name="sort-amount-asc" value="392" />
-            <enum name="sort-amount-desc" value="393" />
-            <enum name="sort-asc" value="394" />
-            <enum name="sort-desc" value="395" />
-            <enum name="sort-down" value="396" />
-            <enum name="sort-numeric-asc" value="397" />
-            <enum name="sort-numeric-desc" value="398" />
-            <enum name="sort-up" value="399" />
+            <enum name="sort_alpha_asc" value="390" />
+            <enum name="sort_alpha_desc" value="391" />
+            <enum name="sort_amount_asc" value="392" />
+            <enum name="sort_amount_desc" value="393" />
+            <enum name="sort_asc" value="394" />
+            <enum name="sort_desc" value="395" />
+            <enum name="sort_down" value="396" />
+            <enum name="sort_numeric_asc" value="397" />
+            <enum name="sort_numeric_desc" value="398" />
+            <enum name="sort_up" value="399" />
             <enum name="soundcloud" value="400" />
-            <enum name="space-shuttle" value="401" />
+            <enum name="space_shuttle" value="401" />
             <enum name="spinner" value="402" />
             <enum name="spoon" value="403" />
             <enum name="spotify" value="404" />
             <enum name="square" value="405" />
-            <enum name="square-o" value="406" />
-            <enum name="stack-exchange" value="407" />
-            <enum name="stack-overflow" value="408" />
+            <enum name="square_o" value="406" />
+            <enum name="stack_exchange" value="407" />
+            <enum name="stack_overflow" value="408" />
             <enum name="star" value="409" />
-            <enum name="star-half" value="410" />
-            <enum name="star-half-empty" value="411" />
-            <enum name="star-half-full" value="412" />
-            <enum name="star-half-o" value="413" />
-            <enum name="star-o" value="414" />
+            <enum name="star_half" value="410" />
+            <enum name="star_half_empty" value="411" />
+            <enum name="star_half_full" value="412" />
+            <enum name="star_half_o" value="413" />
+            <enum name="star_o" value="414" />
             <enum name="steam" value="415" />
-            <enum name="steam-square" value="416" />
-            <enum name="step-backward" value="417" />
-            <enum name="step-forward" value="418" />
+            <enum name="steam_square" value="416" />
+            <enum name="step_backward" value="417" />
+            <enum name="step_forward" value="418" />
             <enum name="stethoscope" value="419" />
             <enum name="stop" value="420" />
             <enum name="strikethrough" value="421" />
             <enum name="stumbleupon" value="422" />
-            <enum name="stumbleupon-circle" value="423" />
+            <enum name="stumbleupon_circle" value="423" />
             <enum name="subscript" value="424" />
             <enum name="suitcase" value="425" />
-            <enum name="sun-o" value="426" />
+            <enum name="sun_o" value="426" />
             <enum name="superscript" value="427" />
             <enum name="support" value="428" />
             <enum name="table" value="429" />
@@ -460,58 +460,58 @@
             <enum name="tags" value="433" />
             <enum name="tasks" value="434" />
             <enum name="taxi" value="435" />
-            <enum name="tencent-weibo" value="436" />
+            <enum name="tencent_weibo" value="436" />
             <enum name="terminal" value="437" />
-            <enum name="text-height" value="438" />
-            <enum name="text-width" value="439" />
+            <enum name="text_height" value="438" />
+            <enum name="text_width" value="439" />
             <enum name="th" value="440" />
-            <enum name="th-large" value="441" />
-            <enum name="th-list" value="442" />
-            <enum name="thumb-tack" value="443" />
-            <enum name="thumbs-down" value="444" />
-            <enum name="thumbs-o-down" value="445" />
-            <enum name="thumbs-o-up" value="446" />
-            <enum name="thumbs-up" value="447" />
+            <enum name="th_large" value="441" />
+            <enum name="th_list" value="442" />
+            <enum name="thumb_tack" value="443" />
+            <enum name="thumbs_down" value="444" />
+            <enum name="thumbs_o_down" value="445" />
+            <enum name="thumbs_o_up" value="446" />
+            <enum name="thumbs_up" value="447" />
             <enum name="ticket" value="448" />
             <enum name="times" value="449" />
-            <enum name="times-circle" value="450" />
-            <enum name="times-circle-o" value="451" />
+            <enum name="times_circle" value="450" />
+            <enum name="times_circle_o" value="451" />
             <enum name="tint" value="452" />
-            <enum name="toggle-down" value="453" />
-            <enum name="toggle-left" value="454" />
-            <enum name="toggle-right" value="455" />
-            <enum name="toggle-up" value="456" />
-            <enum name="trash-o" value="457" />
+            <enum name="toggle_down" value="453" />
+            <enum name="toggle_left" value="454" />
+            <enum name="toggle_right" value="455" />
+            <enum name="toggle_up" value="456" />
+            <enum name="trash_o" value="457" />
             <enum name="tree" value="458" />
             <enum name="trello" value="459" />
             <enum name="trophy" value="460" />
             <enum name="truck" value="461" />
-            <enum name="try" value="462" />
+            <enum name="try_currency" value="462" />
             <enum name="tumblr" value="463" />
-            <enum name="tumblr-square" value="464" />
-            <enum name="turkish-lira" value="465" />
+            <enum name="tumblr_square" value="464" />
+            <enum name="turkish_lira" value="465" />
             <enum name="twitter" value="466" />
-            <enum name="twitter-square" value="467" />
+            <enum name="twitter_square" value="467" />
             <enum name="umbrella" value="468" />
             <enum name="underline" value="469" />
             <enum name="undo" value="470" />
             <enum name="university" value="471" />
             <enum name="unlink" value="472" />
             <enum name="unlock" value="473" />
-            <enum name="unlock-alt" value="474" />
+            <enum name="unlock_alt" value="474" />
             <enum name="unsorted" value="475" />
             <enum name="upload" value="476" />
             <enum name="usd" value="477" />
             <enum name="user" value="478" />
-            <enum name="user-md" value="479" />
+            <enum name="user_md" value="479" />
             <enum name="users" value="480" />
-            <enum name="video-camera" value="481" />
-            <enum name="vimeo-square" value="482" />
+            <enum name="video_camera" value="481" />
+            <enum name="vimeo_square" value="482" />
             <enum name="vine" value="483" />
             <enum name="vk" value="484" />
-            <enum name="volume-down" value="485" />
-            <enum name="volume-off" value="486" />
-            <enum name="volume-up" value="487" />
+            <enum name="volume_down" value="485" />
+            <enum name="volume_off" value="486" />
+            <enum name="volume_up" value="487" />
             <enum name="warning" value="488" />
             <enum name="wechat" value="489" />
             <enum name="weibo" value="490" />
@@ -522,12 +522,12 @@
             <enum name="wordpress" value="495" />
             <enum name="wrench" value="496" />
             <enum name="xing" value="497" />
-            <enum name="xing-square" value="498" />
+            <enum name="xing_square" value="498" />
             <enum name="yahoo" value="499" />
             <enum name="yen" value="500" />
             <enum name="youtube" value="501" />
-            <enum name="youtube-play" value="502" />
-            <enum name="youtube-square" value="503" />
+            <enum name="youtube_play" value="502" />
+            <enum name="youtube_square" value="503" />
         </attr>
     </declare-styleable>
 
